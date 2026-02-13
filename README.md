@@ -1,6 +1,4 @@
-# PowerApps API Project
-
-This project contains a Power Apps application and Business Central API extensions for employee and HR leave request management.
+# PowerApps Project
 
 ## Project Structure
 
