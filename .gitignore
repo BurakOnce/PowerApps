@@ -15,5 +15,5 @@ ehthumbs.db
 Desktop.ini
 
 # PowerApps
-*.msapp
+# *.msapp - Commented out to allow sharing .msapp files
 
