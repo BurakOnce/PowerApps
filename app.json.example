@@ -1,0 +1,46 @@
+{
+  "id": "YOUR-APP-ID-HERE",
+  "name": "PowerAppsApi",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+      {
+        "id": "YOUR-DEPENDENCY-ID-1",
+        "name": "HR",
+        "publisher": "Navapp Yazilim ve Danismanlik Ltd. Sti",
+        "version": "26.0.260204.1700"
+      },
+      {
+      "id": "YOUR-DEPENDENCY-ID-2",
+      "name": "WBS",
+      "publisher": "Navapp Yazilim ve Danismanlik Ltd. Sti",
+      "version": "26.0.250317.1300"      
+      }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "27.0.0.0",
+  "idRanges": [
+    {
+      "from": 70000,
+      "to": 70149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "16.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
+

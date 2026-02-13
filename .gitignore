@@ -1,0 +1,19 @@
+# AL Language Extension
+.alpackages/
+*.app
+
+# Sensitive configuration files
+app.json
+.vscode/launch.json
+
+# Visual Studio Code
+.vscode/settings.json
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# PowerApps
+*.msapp
+
